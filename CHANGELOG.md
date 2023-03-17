@@ -20,6 +20,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Support for PPA packaging (apt install).
 - Added flag `--container-tag` to add a suffix to sedge containers name.
 - Support the new command `import-key` to import validator keys in an existing configuration.
+- Added Erigon support for Gnosis network
 
 ### Changed
 
